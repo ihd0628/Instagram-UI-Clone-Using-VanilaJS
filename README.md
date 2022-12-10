@@ -1,6 +1,5 @@
 # westagram-frontend
 
-> 디테일한 가이드는 guide 폴더에 있는 md 파일 내용을 확인해주세요.
 
 <br />
 
