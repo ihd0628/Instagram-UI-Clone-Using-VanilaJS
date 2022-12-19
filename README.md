@@ -1,4 +1,4 @@
-# westagram-frontend
+# Instagram-UI-Clone-Using-VanilaJS
 
 
 <br />
